@@ -1,0 +1,13 @@
+.env
+.cursorignore
+venv/
+static/images/*
+all_code.txt
+.idea
+.ropeproject
+faiss_index
+chat_history
+images
+chat_history.db
+scripts
+faiss_feedback_index
